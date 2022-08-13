@@ -1,0 +1,12 @@
+#listAdder {
+  grid-template-rows: auto;
+  grid-template-columns: auto auto;
+  grid-column-gap: 1vw;
+  justify-content: center;
+  align-items: center;
+}
+
+textarea {
+  height: 2vh;
+  resize: none;
+}/*# sourceMappingURL=ListAdder.css.map */

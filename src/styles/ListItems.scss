@@ -1,0 +1,19 @@
+.listItems{
+    justify-content: center;
+
+    #todoList{
+        margin-right: 25vw;
+
+        .close{
+            margin-left: 3vw;
+        }
+    }
+}
+
+.close {
+    cursor: pointer;
+    position: inherit;
+    top: 50%;
+    right: 0%;
+    transform: translate(0%, -50%);
+  }
