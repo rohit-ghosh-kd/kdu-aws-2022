@@ -8,7 +8,7 @@ import ListItems from "./ListItems";
 const App = () => {
   return (
     <div>
-      <Header name={"TODO List"} className={"mainHeader"}></Header>
+      <Header name={"~~TODO List~~"} className={"mainHeader"}></Header>
       <ListAdder buttonName={"ADD"} buttonClass={"addButton"}></ListAdder>
       <ListItems></ListItems>
     </div>
